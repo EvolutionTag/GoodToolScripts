@@ -1,0 +1,2 @@
+SetPlayerState(GetTriggerPlayer(),PLAYER_STATE_RESOURCE_GOLD,1000)
+SetPlayerState(GetTriggerPlayer(),PLAYER_STATE_RESOURCE_LUMBER,100000)
